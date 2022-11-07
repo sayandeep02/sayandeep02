@@ -36,3 +36,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayandeep02&show_icons=true&locale=en&layout=compact" alt="sayandeep02" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayandeep02&show_icons=true&locale=en" alt="sayandeep02" /></p>
+
+
+[![@sayandeep02's Holopin board](https://holopin.me/sayandeep02)](https://holopin.io/@sayandeep02)
