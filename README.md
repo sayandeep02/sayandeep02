@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sayandeepdey6" target="blank"><img src="https://img.shields.io/twitter/follow/sayandeepdey6?logo=twitter&style=for-the-badge" alt="sayandeepdey6" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Competitive Programming**
 
